@@ -17,5 +17,12 @@ https://github.com/rittik9/GAN-BIN/assets/99414608/09fed675-0ef3-49ce-abc7-10b55
 
 https://github.com/rittik9/GAN-BIN/assets/99414608/7b09fffa-e936-409b-b9de-acaeec3f9dc8
 
+### 3.[ WGAN](https://arxiv.org/pdf/1701.07875): <br>
+
+- MNIST Dataset:
+
+
+
+https://github.com/user-attachments/assets/7182cf1f-d23b-4c42-9842-b9d693d7068e
 
 
